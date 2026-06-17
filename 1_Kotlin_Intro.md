@@ -80,3 +80,16 @@ val isGreater = (a > b)
 val isLessOrEqual = (a <= b)
 ```
 Estos operadores evalúan condiciones y devuelven un resultado booleano, ayudando en la toma de decisiones dentro de tu código.
+
+### Ejemplo 7: Arreglos y listas
+
+```kotlin
+val miLista = listOf(0,1,2,3) 
+val miArray = intArrayOf(0,1,2,3) 
+```
+
+```csharp
+val miLista = new List<Int>(){0,1,2,3};
+val miArray = new int[]{0,1,2,3};
+```
+Estos operadores evalúan condiciones y devuelven un resultado booleano, ayudando en la toma de decisiones dentro de tu código.
